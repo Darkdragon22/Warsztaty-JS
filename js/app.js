@@ -20,3 +20,9 @@ function distFromAvarage() {
     console.log(newArray);
 }
 distFromAvarage(1,2,3,4,5);
+
+var numbs = 6;
+var result2 = 0;
+
+result2 = 6 % 2;
+console.log(result2);
